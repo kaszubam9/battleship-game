@@ -1,4 +1,4 @@
-# battleship-game
+# Battleship - game
 
 Simple Battleship Game project written in the C++ language based on object-oriented programming.
 
